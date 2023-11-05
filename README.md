@@ -1,3 +1,3 @@
 # Приложение для построения детерминированного конечного автомата по регулярному выражению.
 
-![](https://github.com/vasileva-julia/REtoDFA/assets/71271035/78dd03f3-4aef-448c-be55-6c78c473fb19)
+https://github.com/vasileva-julia/REtoDFA/assets/71271035/e49f23e4-8580-4c43-8f02-dfabb022954d
